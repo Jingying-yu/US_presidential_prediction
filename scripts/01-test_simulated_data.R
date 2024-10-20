@@ -1,9 +1,9 @@
 #### Preamble ####
 # Purpose: Tests the structure and validity of the simulated Australian 
   #electoral divisions dataset.
-# Author: Rohan Alexander
-# Date: 26 September 2024
-# Contact: rohan.alexander@utoronto.ca
+# Author: Sandy Yu
+# Date: 21 October 2024
+# Contact: jingying.yu@mail.utoronto.ca
 # License: MIT
 # Pre-requisites: 
   # - The `tidyverse` package must be installed and loaded
