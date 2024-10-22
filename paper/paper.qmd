@@ -196,6 +196,18 @@ Weaknesses and next steps should also be included.
 
 # Appendix {-}
 
+## Pollest Methodology
+
+### Survey Methodology
+- what is the population, frame, and sample;
+- how is the sample recruited;
+- what sampling approach is taken
+
+### Strength & Weakness
+- what are some of the trade-offs of this;
+- how is non-response handled;
+- what is good and bad about the questionnaire.
+
 
 # Additional data details
 
